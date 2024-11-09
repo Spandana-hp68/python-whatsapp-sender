@@ -1,5 +1,5 @@
 import pywhatkit 
-pywhatkit.sendwhatmsg("+1234567890", "Hello, Happy Birthday sweetheart!❤️", 0, 0)
+pywhatkit.sendwhatmsg("+1234567890", "Hello, Happy Birthday honey!❤️", 0, 0)
 
 #To send a message at midnight (12:00 AM), you would use 0,0.
 
